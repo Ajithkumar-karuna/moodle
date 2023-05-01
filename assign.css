@@ -1,0 +1,27 @@
+.body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+     background-size: cover;
+}
+.bgcolor{
+    background-color: #f6c56e;
+    border-radius: 20px 20px;
+    margin-top: 440px;
+    padding: 45px;
+    color: #323f4b;
+}
+.btm{
+    color: #323f4b;
+    background-color:#ffffff; 
+    border-radius: 10px;
+    border:3px solid #ffffff;
+}
+.text{
+    color:#323f4b;
+
+}
+.tet1{
+    font-family: BreeSerif;
+}
+.btm2{
+    font-family:Roboto;
+}

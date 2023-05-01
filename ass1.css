@@ -1,0 +1,26 @@
+*{
+    font-family:Roboto;
+}
+.body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size:cover;
+}
+.head{
+    color:#ffffff;
+    background-color:#323f4b;
+    margin-top:20px;
+}
+.text1{
+    color:#ffffff;
+    background-color:#47a3f3;
+    margin-top:20px;
+    padding: 10px;
+    border-radius: 8px 8px 0px 8px;
+}
+.text2{
+    color:#ffffff;
+    background-color:#52606d;
+    margin-top:20px;
+    padding: 10px;
+    border-radius: 8px 8px 8px 0px;
+}
